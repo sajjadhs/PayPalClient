@@ -2,9 +2,9 @@
 
 Handy paypal client which can be used in .net core projects
 
-Only thing you need is to register in paypal website and get you clientid and client secret id.
+This project is done over the [paypal's official sdk](https://github.com/paypal/PayPal-NET-SDK) and makes it easier and ready to use by one click.
 
-So you will register the PayPal Service in your startup(maybe you are not using DI then make instance manually).
+Only thing you need is to register in paypal website and get you clientid and client secret id.
 
 Call each function which is needed to get create payment, authorize payment, capture or refund it.
 
