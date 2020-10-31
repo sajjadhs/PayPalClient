@@ -2,7 +2,7 @@
 
 Handy paypal client which can be used in .net core projects
 
-This project is done over the [paypal's official sdk](https://github.com/paypal/PayPal-NET-SDK) and makes it easier and ready to use by one click.
+This project is done over the [paypal's official sdk](https://github.com/paypal/Checkout-NET-SDK) and makes it easier and ready to use by one click.
 
 Only thing you need is to register in paypal website and get you clientid and client secret id.
 
